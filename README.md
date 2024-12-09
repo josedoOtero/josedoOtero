@@ -1,6 +1,6 @@
 ### Hey, soy Josedo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Bienvenido a mi perfil de GitHub, donde puedes consultar mis proyectos y ejercicios realizados hasta ahora.
+Bienvenido a mi perfil de GitHub, donde puedes consultar mis proyectos y ejercicios realizados hasta ahora. <br>Espero que te guste! 😊
 
 <strong>Mis Habilidades:</strong><br>
 
@@ -14,7 +14,6 @@ Otras heramientas:<br><br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedoOtero&layout=compact" alt="Top Languages">
 
