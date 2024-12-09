@@ -4,7 +4,7 @@ Bienvenido a mi perfil de gitHub. Donde puedes consultar mis proyectos o ejercic
 
 <strong>Mis tecnologias:</strong>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedoOtero&layout=compact" alt="Top Languages">
 
 <!--
 **josedoOtero/josedoOtero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
