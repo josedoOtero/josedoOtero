@@ -1,7 +1,10 @@
-### Hey, soy Josedo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, soy Josedo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<strong>Sobre mi:</strong>
+Bienvenido a mi perfil de gitHub. Donde puedes consultar mis proyectos o ejercicios.
 
+<strong>Mis tecnologias:</strong>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
 <!--
 **josedoOtero/josedoOtero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
