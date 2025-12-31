@@ -51,6 +51,5 @@ Desarrollador Web Junior titulado en DAW, con prácticas en empresa realizando d
 
 ## Contacto
 - [LinkedIn](https://www.linkedin.com/in/jose-domingo-otero-jim%C3%A9nez-779a0a297/)
-- [Correo electrónico](mailto:oterojosedo154@gmail.com)
 
 
