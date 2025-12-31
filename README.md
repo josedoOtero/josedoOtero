@@ -28,10 +28,26 @@ Desarrollador Web Junior titulado en DAW, con prácticas en empresa realizando d
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Otros
+### Herramientas / Otros
 ![WordPress](https://img.shields.io/badge/WordPress-%231478B2.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## Proyectos Destacados
+
+### Spring Boot CRUD Demo
+- CRUD sencillo con Spring Boot y MySQL
+- Funcionalidades: autenticación, gestión de datos
+- Arquitectura MVC
+- [Repositorio](URL_del_repo)  <!-- Cambia esto por el enlace real -->
+
+### Web Corporativa WordPress
+- Desarrollo de web corporativa con WordPress
+- Personalización de tema y plugins
+- Migraciones y resolución de incidencias
+- [Repositorio](URL_del_repo)  <!-- Cambia esto por el enlace real -->
 
 ---
 
@@ -42,7 +58,15 @@ Desarrollador Web Junior titulado en DAW, con prácticas en empresa realizando d
 
 ---
 
+## Experiencia
+- **Prácticas en LinkAsoft** – Mantenimiento y desarrollo web WordPress, migraciones y resolución de incidencias
+- **Reparaciones de equipos** – Montaje y mantenimiento de ordenadores e impresoras
+- **Socorrista y atención al público** – Experiencia de trato con clientes y gestión de incidencias
+
+---
+
 ## Contacto
-- [LinkedIn]([URL_LinkedIn](https://www.linkedin.com/in/jose-domingo-otero-jim%C3%A9nez-779a0a297/))
+- [LinkedIn](https://www.linkedin.com/in/jose-domingo-otero-jim%C3%A9nez-779a0a297/)
 - [Correo electrónico](mailto:oterojosedo154@gmail.com)
+
 
