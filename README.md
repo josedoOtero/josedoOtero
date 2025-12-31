@@ -35,22 +35,6 @@ Desarrollador Web Junior titulado en DAW, con prácticas en empresa realizando d
 
 ---
 
-## Proyectos Destacados
-
-### Spring Boot CRUD Demo
-- CRUD sencillo con Spring Boot y MySQL
-- Funcionalidades: autenticación, gestión de datos
-- Arquitectura MVC
-- [Repositorio](URL_del_repo)  <!-- Cambia esto por el enlace real -->
-
-### Web Corporativa WordPress
-- Desarrollo de web corporativa con WordPress
-- Personalización de tema y plugins
-- Migraciones y resolución de incidencias
-- [Repositorio](URL_del_repo)  <!-- Cambia esto por el enlace real -->
-
----
-
 ## Educación
 - **Desarrollo de Aplicaciones Web (DAW)** – Tecnologías: HTML, CSS, JS, Bootstrap, SQL, Spring Boot, Git, WordPress
 - **Bachillerato Científico-Tecnológico** – Matemáticas, Física, Programación en C++
