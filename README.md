@@ -35,22 +35,6 @@ Desarrollador Web Junior titulado en DAW, con prácticas en empresa realizando d
 
 ---
 
-## Proyectos Destacados
-
-### Spring Boot CRUD Demo
-- CRUD sencillo con Spring Boot y MySQL
-- Funcionalidades: autenticación, gestión de datos
-- Arquitectura MVC
-- [Repositorio](URL_del_repo)
-
-### Web Corporativa WordPress
-- Desarrollo de web corporativa con WordPress
-- Personalización de tema y plugins
-- Migraciones y resolución de incidencias
-- [Repositorio](URL_del_repo)
-
----
-
 ## Educación
 - **Desarrollo de Aplicaciones Web (DAW)** – Tecnologías: HTML, CSS, JS, Bootstrap, SQL, Spring Boot, Git, WordPress
 - **Bachillerato Científico-Tecnológico** – Matemáticas, Física, Programación en C++
@@ -58,14 +42,7 @@ Desarrollador Web Junior titulado en DAW, con prácticas en empresa realizando d
 
 ---
 
-## Experiencia
-- **Prácticas en LinkAsoft** – Mantenimiento y desarrollo web WordPress, migraciones y resolución de incidencias
-- **Reparaciones de equipos** – Montaje y mantenimiento de ordenadores e impresoras
-- **Socorrista y atención al público** – Experiencia de trato con clientes y gestión de incidencias
-
----
-
 ## Contacto
-- [LinkedIn](URL_LinkedIn)
-- [Correo electrónico](mailto:tu_email@example.com)
+- [LinkedIn]([URL_LinkedIn](https://www.linkedin.com/in/jose-domingo-otero-jim%C3%A9nez-779a0a297/))
+- [Correo electrónico](mailto:oterojosedo154@gmail.com)
 
