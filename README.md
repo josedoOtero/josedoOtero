@@ -60,8 +60,11 @@ Busco incorporarme al sector para aportar desde el primer día y seguir creciend
 ---
 
 ## 🌐 Contacto
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-domingo-otero-jim%C3%A9nez-779a0a297/)
-- 📸 [Instagram – @josedodev](https://www.instagram.com/josedodev/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-domingo-otero-jim%C3%A9nez-779a0a297/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josedodev/)
+[![Email](https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oterojosedo154@gmail.com)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
 
 
 
